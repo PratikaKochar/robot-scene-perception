@@ -1,4 +1,5 @@
 # robot-scene-perception
+For bettere understanding, refer: Robot Soccer Perception.pptx
 
 Problems tackled for robot's actions: <br>
 1. Perception (further away balls and goalposts to be detected) <br>
